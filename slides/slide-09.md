@@ -13,3 +13,5 @@ Easy...
 
 Notes:
 zone js is an execution context that allows you to have pretty stack traces 
+
+finally have webpack build working but your girlfriend has left you and Elliot just read on FrontEndDev Weekly that ELK JS is out and now webpack is deprecated
