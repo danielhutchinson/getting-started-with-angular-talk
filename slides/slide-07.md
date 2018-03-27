@@ -10,3 +10,5 @@ export class ConferenceService {
 notes:
 _almost_ like standard typescript classes, they only need the @Injectable() decorator
 this tells angular that this can be injected into other components and services as a dependency
+
+@Injectable() decorator actually tells the dependency injector in angular that this class can be injected into other classes, but is most commonly used for services

@@ -7,5 +7,9 @@ Easy...
 - System.js
 - ES6 shims
 - Karma
-- Webpack / Gulp / Grunt / Brocolli
+- Webpack / Gulp / Grunt / Broccoli
 - Lots of weird front end magic hackery, lost sleep, strained relationships...
+
+Notes:
+ng serve -o
+to open the thing

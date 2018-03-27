@@ -10,4 +10,5 @@ export class MyComponent {
 ```
 
 Notes:
+Using external references to existing files
 By convention you give all files the same name, usually a project is structured as one folder per component, containing all of the relevant files

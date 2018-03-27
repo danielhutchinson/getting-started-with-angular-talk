@@ -7,3 +7,7 @@ export class MyComponent {
     public conferenceName: string = 'Mikefest 2018';
 }
 ```
+
+
+Notes:
+Data Binding to a template using public properties

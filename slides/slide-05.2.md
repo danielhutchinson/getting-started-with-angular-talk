@@ -12,3 +12,6 @@ export class MyComponent {
     public message: string = 'Mikefest 2018';
 }
 ```
+
+Notes:
+Adding styles to the component
